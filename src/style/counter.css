@@ -1,0 +1,67 @@
+
+#header {
+    background-color:black;
+    color: white;
+    font-size:30px;
+    font-weight:600px;
+    padding-top:10px;
+    padding-bottom:10px;
+
+}
+
+.counter-container {
+    border: 2px solid black;
+    width:200px;
+    margin-left:40%;
+    margin-right:40%;
+    margin-top:10%;
+    border-radius:13px;
+}
+
+.counter-result {
+    background-color:lightgray;
+    color:black;
+    font-size: 24px;
+    font-weight:bold;
+    padding-top:15px;
+    padding-bottom:15px;
+    border-top-left-radius: 13px;
+    border-top-right-radius:13px;
+}
+
+.increment-btn {
+width:66px;
+height:50px;
+background-color:#28a745;
+color:white;
+font-size:20px;
+font-weight:bold;
+border-bottom-left-radius: 13px;
+border-width: 0px;
+    border-style: outset;
+    border-color: #28a745;
+}
+
+.reset-btn {
+    width:65px;
+    height:50px;
+    background-color:#ffc107;
+    font-size:20px;
+    border-width: 0px;
+    border-style: outset;
+    border-color:#ffc107;
+
+}
+
+.decrement-btn{
+    width:66px;
+    height:50px;
+    background-color:#dc3545;
+    color:white;
+    font-size:24px;
+    font-weight:bold;
+    border-bottom-right-radius: 13px;
+    border-width: 0px;
+    border-style: outset;
+    border-color:#dc3545;
+}
